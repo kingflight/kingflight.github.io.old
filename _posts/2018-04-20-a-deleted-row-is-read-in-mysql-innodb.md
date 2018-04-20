@@ -1,3 +1,8 @@
+---
+layout: post
+title: REPEATABLE-READ事务隔离级别下，可能读出已删除的记录
+---
+
 # REPEATABLE-READ事务隔离级别下，可能读出已删除的记录
 
 事务1：
